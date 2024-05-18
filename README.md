@@ -90,3 +90,4 @@ Als je de bonusopdrachten maakt, zorg dan dat deze ook getest worden!
 2. Schrijf een methode om alle nichtjes terug te geven van een persoon.
 3. Voeg een partner toe aan de `Person` en implementeer deze partner door de gehele applicatie inclusief getter & setter en benodigde methodes.
 4. Kun je nog meer toevoegingen bedenken om de 'stamboom applicatie' compleet te maken?
+# backend-family-tree
